@@ -1,0 +1,5 @@
+-------------------------------------------
+Played 10000 games, won 4384, draw 809, loss 4807
+Win Rate: 43.84%
+Total 8250000 games, won 3573425, draw 701304, loss 3975271
+Total Win Rate: 43.31424242424242%
